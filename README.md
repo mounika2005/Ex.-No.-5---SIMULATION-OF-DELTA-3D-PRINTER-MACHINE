@@ -65,7 +65,7 @@ The part of the printer that melts and deposits the filament used to create the 
 Small pins used to secure various parts of the printer together.
 
 # Motor with gear :
-A motor that has a gear attached to it, often used to drive the printer's linear rails.
+A motor that has a gear attached to it, often used to drive the printer's linear rails
 
 # LCD : A display screen that allows the user to interact with the printer,typically used to select and control print settings.
 ## playing with axis:
